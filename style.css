@@ -1,0 +1,177 @@
+html {
+  margin: 0px;
+}
+body{
+  margin: 0px;
+  background-image: url("scary2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  height:800px;
+
+}
+
+.button {
+  background-color: #D0D9CC;
+  border: #f32d5b;
+  color: #f32d5b;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Bangers;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.navMenu{
+  position: fixed;
+  top: 5px;
+  left: 40px;
+}
+.mainContent1{
+  font-family: "Bangers";
+  font-size: 100px;
+  color: #383D40;
+  line-height: 2px;
+  text-shadow: 2px 2px 5px #D0D9CC;
+  position: fixed;
+  top: 80px;
+  right: 400px;
+  text-align: justify;
+}
+.mainContent2{
+  position: fixed;
+  top: 5px;
+  font-size: 30px;
+  color: #383D40;
+  right: 500px;
+}
+.sectionHeader{
+  font-size: 75px;
+  font-family: Bangers;
+  text-shadow: 2px 2px 5px #D0D9CC;
+  text-align: center;
+
+}
+
+.siteIcon{
+  position: fixed;
+  top: 15px;
+  right: 20px;
+}
+
+.slideshowContainer {
+  top:150px;
+  left:400px;
+  position: absolute;
+  padding-left: 50px;
+  padding-right: 450px;
+}
+
+.imageCollection > img {
+  width: 45.6%;
+  display: inline-block;
+  border-style: solid;
+  border-color: #f32d5b;
+  opacity: .2;
+}
+
+.imageCollection > img:hover {
+  opacity: 1.0;
+}
+
+.video1{
+  width:400px;
+  position: absolute;
+  left:150px;
+  top:500px;
+}
+
+.video2{
+  position: absolute;
+  left: 1050px;
+  top:500px;
+}
+
+.video3{
+  position: absolute;
+  left:450px;
+  top:500px;
+}
+
+.text1{
+  position:absolute;
+  right: 1000px;
+  top: 130px;
+  padding-left: 50px;
+  font-size: 20px;
+  color:#232729;
+  font-family: Baskerville;
+
+}
+.text2{
+  color: #232729;
+  position:absolute;
+  left: 1000px;
+  top: 130px;
+  padding-right: 50px;
+  font-size: 20px;
+  font-family:Baskerville;
+}
+
+.video4{
+  position: absolute;
+  left: 750px;
+  top:500px;
+}
+.link1{
+  position: absolute;
+  left: 425px;
+  top: 400px;
+  border-style: solid;
+  border-color: #f32d5b;
+    background-color: #d0d9cc;
+  border-width: 15px;
+}
+
+.link2{
+  position: absolute;
+  left: 425px;
+  top: 150px;
+  border-style: solid;
+  border-color: #f32d5b;
+  background-color: #d0d9cc;
+  border-width: 15px;
+
+}
+
+.link3{
+  position: absolute;
+  left: 725px;
+  top: 150px;
+  border-style: solid;
+  border-color: #f32d5b;
+  background-color: #d0d9cc;
+  border-width: 15px;
+}
+
+.link4{
+  position: absolute;
+  left: 725px;
+  top: 400px;
+  color: #d0d9cc;
+  background-color: #d0d9cc;
+  border-style: solid;
+  border-color: #f32d5b;
+  border-width: 15px;
+}
+
+.sectionHeader2{
+  font-size: 75px;
+  color: #383D40;
+  font-family: Bangers;
+  text-shadow: 2px 2px 5px #D0D9CC;
+  text-align: center;
+}
